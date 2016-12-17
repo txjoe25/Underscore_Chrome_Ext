@@ -21,8 +21,5 @@
     "permissions" : [
         "tabs",
         "*://*/*"
-    ],
-
-    "web_accessible_resources" : ["./node_modules/underscore/underscore-min.js"
     ]
 }
